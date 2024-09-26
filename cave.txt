@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "Just a normal cave. Its not like an omniscient wizard can teach you how
+to weaponize presence is in there. Nope, not at all."
+
